@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+.header{
+  background:linear-gradient(to bottom,black,rgb(3, 147, 147),white) ;
+}
+.heading{
+  display:flex;
+  justify-content: space-between;
+}
+.middle-section{
+  background-color: black;
+}
+.menu-line{
+  background:linear-gradient(to left,black,rgb(3, 147, 147));
+}
+.img-text{
+  background: repeating-linear-gradient(to left,black,rgb(3, 147, 147),white);
+}
